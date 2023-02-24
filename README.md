@@ -8,3 +8,6 @@ EDA 프로젝트 2조 저장소. 로봇 개발자 취업현황 조사
 [신대준](https://github.com/shindaejune): 공공데이터 가공 (python, pandas, folium) \
 [이윤종](https://github.com/doubleSizeBanana): 사람인 크롤링 및 데이터 시각화 (Selenium, pandas, folium) \
 [허동욱](https://github.com/dongwookheo): 잡코리아 크롤링(중단) 및 데이터 시각화 (Selenium, BeautifulSoup, pandas, folium)
+
+<img align="center" src="./images/survey.png" style="width:1000px; height:700px;"/>
+<img align="center" src="./images/gantt.png" style="width:800px; height:700px;"/>
