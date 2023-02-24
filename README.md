@@ -1,7 +1,7 @@
 # eda-repo-2
 EDA 프로젝트 2조 저장소. 로봇 개발자 취업현황 조사
 
-<img align="center" src="./images/"/>
+<img align="center" src="./images/title.png"/>
 
 ## 팀원
 [노태형](https://github.com/Robotics-Ro): 프로젝트 기획 및 데이터 시각화 (사용 툴 작성) \
