@@ -28,8 +28,8 @@ EDA 프로젝트 2조 저장소. 로봇 개발자 취업현황 조사
 ## **<WBS를 토대로 스케쥴 작성>**
 <img align="center" src="./images/gantt.png" style="width:800px; height:700px;"/>
 
-- ## 노란색 : 노태형, &nbsp;&nbsp;&nbsp; 분홍색 : 허동욱
-- ## 파란색 : 이윤종, &nbsp;&nbsp;&nbsp; 초록색 : 신대준
+- ### 노란색 : 노태형, &nbsp;&nbsp;&nbsp; 분홍색 : 허동욱
+- ### 파란색 : 이윤종, &nbsp;&nbsp;&nbsp; 초록색 : 신대준
 
 ------------------------------------------
 # 2. 공공데이터
@@ -43,3 +43,17 @@ EDA 프로젝트 2조 저장소. 로봇 개발자 취업현황 조사
 로봇을 포함하여 기계, 장치 등을 조합하여 필요한 기능을 실현한 집합체
 
 <img align="center" src="./images/circle0.png"/><br><br>
+##### 2019년 기준 로봇산업 실태조사   보고서 26쪽에서 전재
+# 2017년도 이후 로봇 산업체 현황
+<img align="center" src="./images/total.png"/><br><br>
+### 제조업 비율은 줄어들고 있으나 로봇 부품 및 소프트웨어가 <br>상대적으로 많아지고 있습니다.<br><br>
+##### 2019년 기준 로봇산업 실태조사   보고서 44쪽에서 전재
+
+# 부분별 사업체 규모
+<img align="center" src="./images/bar1.png"/><br><br>
+### 국내 대기업의 숫자가 적은 것도 있으나 많은 부분이 중소기업이 차지합니다.
+##### 2019년 기준 로봇산업 실태조사   보고서 45쪽에서 전재
+<br>
+<img align="center" src="./images/year_change.png" style="width:1000px; height:400px;"/><br><br>
+
+<img align="center" src="./images/human_year.png" style="width:1000px; height:400px;"/><br><br>
