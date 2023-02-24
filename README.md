@@ -28,8 +28,8 @@ EDA 프로젝트 2조 저장소. 로봇 개발자 취업현황 조사
 ## **<WBS를 토대로 스케쥴 작성>**
 <img align="center" src="./images/gantt.png" style="width:800px; height:700px;"/>
 
-- ### 노란색 : 노태형, &nbsp;&nbsp;&nbsp; 분홍색 : 허동욱
-- ### 파란색 : 이윤종, &nbsp;&nbsp;&nbsp; 초록색 : 신대준
+- #### 노란색 : 노태형, &nbsp;&nbsp;&nbsp; 분홍색 : 허동욱
+- #### 파란색 : 이윤종, &nbsp;&nbsp;&nbsp; 초록색 : 신대준
 
 ------------------------------------------
 # 2. 공공데이터
@@ -54,6 +54,6 @@ EDA 프로젝트 2조 저장소. 로봇 개발자 취업현황 조사
 ### 국내 대기업의 숫자가 적은 것도 있으나 많은 부분이 중소기업이 차지합니다.
 ##### 2019년 기준 로봇산업 실태조사   보고서 45쪽에서 전재
 <br>
-<img align="center" src="./images/year_change.png" style="width:1000px; height:400px;"/><br><br>
+<img align="center" src="./images/year_change.png" style="width:1000px; height:450px;"/><br><br>
 
-<img align="center" src="./images/human_year.png" style="width:1000px; height:400px;"/><br><br>
+<img align="center" src="./images/human_year.png" style="width:1000px; height:450px;"/><br><br>
